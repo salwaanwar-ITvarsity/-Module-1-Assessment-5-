@@ -23,7 +23,7 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.para p {
+#para p {
     border-style: double;
     
     border-color: coral;
